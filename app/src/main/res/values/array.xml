@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="workerType">
+        <item>保洁服务</item>
+        <item>家居保养</item>
+        <item>家电清洗</item>
+        <item>保姆月嫂</item>
+        <item>搬家服务</item>
+        <item>居家换新</item>
+        <item>维修服务</item>
+    </array>
+</resources>
